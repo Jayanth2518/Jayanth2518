@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm Jayanth
+# 👋 Hey, I'm Jayanth
 
 🎓 First-year Computer Science student
 🤖 Interested in Robotics, AI, and IoT
